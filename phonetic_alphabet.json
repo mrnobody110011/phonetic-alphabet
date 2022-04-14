@@ -1,0 +1,146 @@
+[
+  {
+    Character: 'A',
+    Telephony: 'Alfa'
+  },
+  {
+    Character: 'B',
+    Telephony: 'Bravo'
+  },
+  {
+    Character: 'C',
+    Telephony: 'Charlie'
+  },
+  {
+    Character: 'D',
+    Telephony: 'Delta'
+  },
+  {
+    Character: 'E',
+    Telephony: 'Echo'
+  },
+  {
+    Character: 'F',
+    Telephony: 'Foxtrot'
+  },
+  {
+    Character: 'G',
+    Telephony: 'Golf'
+  },
+  {
+    Character: 'H',
+    Telephony: 'Hotel'
+  },
+  {
+    Character: 'I',
+    Telephony: 'India'
+  },
+  {
+    Character: 'J',
+    Telephony: 'Juliett'
+  },
+  {
+    Character: 'K',
+    Telephony: 'Kilo'
+  },
+  {
+    Character: 'L',
+    Telephony: 'Lima'
+  },
+  {
+    Character: 'M',
+    Telephony: 'Mike'
+  },
+  {
+    Character: 'N',
+    Telephony: 'November'
+  },
+  {
+    Character: 'O',
+    Telephony: 'Oscar'
+  },
+  {
+    Character: 'P',
+    Telephony: 'Papa'
+  },
+  {
+    Character: 'Q',
+    Telephony: 'Quebec'
+  },
+  {
+    Character: 'R',
+    Telephony: 'Romeo'
+  },
+  {
+    Character: 'S',
+    Telephony: 'Sierra'
+  },
+  {
+    Character: 'T',
+    Telephony: 'Tango'
+  },
+  {
+    Character: 'U',
+    Telephony: 'Uniform'
+  },
+  {
+    Character: 'V',
+    Telephony: 'Victor'
+  },
+  {
+    Character: 'W',
+    Telephony: 'Whiskey'
+  },
+  {
+    Character: 'X',
+    Telephony: 'Xray'
+  },
+  {
+    Character: 'Y',
+    Telephony: 'Yankee'
+  },
+  {
+    Character: 'Z',
+    Telephony: 'Zulu'
+  },
+  {
+    Character: '1',
+    Telephony: 'One'
+  },
+  {
+    Character: '2',
+    Telephony: 'Two'
+  },
+  {
+    Character: '3',
+    Telephony: 'Three'
+  },
+  {
+    Character: '4',
+    Telephony: 'Four'
+  },
+  {
+    Character: '5',
+    Telephony: 'Five'
+  },
+  {
+    Character: '6',
+    Telephony: 'Six'
+  },
+  {
+    Character: '7',
+    Telephony: 'Seven'
+  },
+  {
+    Character: '8',
+    Telephony: 'Eight'
+  },
+  {
+    Character: '9',
+    Telephony: 'Nine'
+  },
+  {
+    Character: '0',
+    Telephony: 'Zero'
+  }
+]
